@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blocknote/static/css/main.7e23f0e8.css",
-    "main.js": "/blocknote/static/js/main.e974ece0.js",
+    "main.js": "/blocknote/static/js/main.93328e09.js",
     "index.html": "/blocknote/index.html",
     "main.7e23f0e8.css.map": "/blocknote/static/css/main.7e23f0e8.css.map",
-    "main.e974ece0.js.map": "/blocknote/static/js/main.e974ece0.js.map"
+    "main.93328e09.js.map": "/blocknote/static/js/main.93328e09.js.map"
   },
   "entrypoints": [
     "static/css/main.7e23f0e8.css",
-    "static/js/main.e974ece0.js"
+    "static/js/main.93328e09.js"
   ]
 }
