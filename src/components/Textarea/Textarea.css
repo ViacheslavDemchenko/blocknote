@@ -1,0 +1,10 @@
+.textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.textarea__btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+}

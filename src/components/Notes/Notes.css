@@ -1,0 +1,13 @@
+.notes {
+    max-width: 500px;
+}
+
+.notes__list {
+    width: 100%;
+    list-style: none;
+    padding: 0;
+}
+
+.notes__warning {
+    font-size: 1.5rem;
+}
